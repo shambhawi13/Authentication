@@ -7,6 +7,16 @@ This application focuses on creating the authentication flow using passport npm 
 - routes folder that contains server-side and client-side routes.
 - package.json : contains project configuration detail along with dependent packages.
 
+## Getting Started
+To understand the application have prior knowledge of following packages(click on each package to view the documentation):
+- [Express](https://www.npmjs.com/package/express)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [Express-session](https://www.npmjs.com/package/express-session)
+- [MySql2](https://www.npmjs.com/package/mysql2)
+- [Passport](https://www.npmjs.com/package/passport) 
+- [Passport-Local](https://www.npmjs.com/package/passport-local)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+
 ## Application flow
 
 ```
@@ -24,3 +34,9 @@ Here is the flow of application :
 - client-side routes creates url route which when hit on browser renders some html page(in this application, we have three html pages)
 - signup.html renders form for user to sign up and register in database.
 - login.html renders form to login after the user has registered.
+
+## Authors
+
+* **Shambhawi Kumari**
+ [GitHub](https://github.com/shambhawi13/) | 
+ [LinkedIn](https://www.linkedin.com/in/shambhawi-kumari/)
